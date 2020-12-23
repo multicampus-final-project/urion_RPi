@@ -1,1 +1,3 @@
-# urion_raspberry_pi
+urion_raspberry_pi
+
+$ python mainserver.py
